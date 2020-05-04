@@ -11,12 +11,11 @@ layout: page
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Faref.meddeb%2Fvideos%2F10157445556698877%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 <hr />
 
-  <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/brochure.JPG">
+  <img src="/OXY-ENISO-YWB/assets/Media/brochure.JPG">
 
 # What?
 <hr />
-It is one of the first urgent actions to combat the spread of the virus.
-The request was made, first, by the medical profession and then relayed by the public authorities.
+After several days of testing, students from the National School of Engineers in Sousse and the Faculty of Medicine in Sousse finally succeeded in developing a high-flow nasal oxygen therapy machine.
 
 
 
@@ -29,23 +28,7 @@ Visor masks are useful for medical personnel and also for all service agents lik
 
 # How?
 <hr />
-In a first phase, the group in charge of this project carried out the design and manufacture of visor masks by laser cutting (for a good rate compared to 3d printing - Manufacturing time: 2 minutes) and using plates of plexiglass.
-
-<div class="column">
-  <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/laser1.jpg" style="width:225px;height:300px;" />
-  <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/laser2.jpg" style="width:225px;height:300px;" />
-  <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/laser3.jpg" style="width:225px;height:300px;" />
-</div>
-
-In order to increase the production rate of these visor masks, a reflection was carried out to choose the optimal manufacturing process. The team in charge of this project opted for plastic injection manufacturing. We are aiming to manufacture 10,000 additional pieces. A first injection mold was designed and manufactured by the means of ENIM.
-
-<div class="column">
-  <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/1.jpg" style="width:225px;height:300px;" />
-  <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/2.jpg" style="width:225px;height:300px;" />
-  <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/3.jpg" style="width:225px;height:300px;" />
-</div>
-
-<img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/7.jpg">
+ The work was carried out with the assistance of doctors and teachers who were able to supervise the students and guide them in their efforts. The machine, which has a touch screen, will thus make it possible to treat respiratory insufficiency in intensive care without resorting to intubation.
 
 
 <h2 id="gallery">Gallery</h2>
@@ -53,8 +36,8 @@ In order to increase the production rate of these visor masks, a reflection was 
 <hr />
 <div class="row">
   <div class="column">
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/Sousse.jpg" style="width:225px;height:300px;" />
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/Kesrine.jpg" style="width:225px;height:300px;" />
+    <img src="/OXY-ENISO-YWB/assets/Media/1.jpg" style="width:225px;height:300px;" />
+    <img src="/OXY-ENISO-YWB/assets/Media/2.jpg" style="width:225px;height:300px;" />
     <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/farhatHached.png" style="width:225px;height:300px;" />
   </div>
   <div class="column">
@@ -78,21 +61,21 @@ Issues / Feature Requests: if you find any errors / omissions in any of the docu
 # Achievements
 <hr />
 
-<img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/UnderBrochure.png">
+
 
 
 # Disclaimer
 <hr />
 
-This Project was entirely done by ENIM students and proffessors with the help of local industries to help the government against COVID-19.
+This Project was entirely done by ENISo students and professors with the help of local industries to help the government against COVID-19.
 
-FAB619 is only the documentation author. The project belongs to ENIM - École nationale d'ingénieurs de Monastir.
+FAB619 is only the documentation author. The project belongs to ENISo - École nationale d'ingénieurs de Sousse.
 
 <hr />
 
-<img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/14.jpg">
+<img src="/OXY-ENISO-YWB/assets/Media/equipe.jpg">
 
-<img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/13.jpg">
+<img src=""/OXY-ENISO-YWB/assets/Media/equipe2.jpg"">
 
 
 <hr />
