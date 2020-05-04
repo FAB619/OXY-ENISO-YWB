@@ -46,7 +46,7 @@ Creating this device was part of a challenge that has been launched to support n
   </div>
   <div class="column">
     <img src="/OXY-ENISO-YWB/assets/Media/3.jpg" style="width:225px;height:300px;" />
-    <img src="" style="width:225px;height:300px;" />
+    <img src="/OXY-ENISO-YWB/assets/Media/5.jpg" style="width:495px;height:300px;" />
     <img src="" style="width:225px;height:300px;" />
   </div>
 </div>
