@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="/OXY-ENISO-YWB/assets/Media/logoEniso.png" style="width:195px;height:278px;" />
+<img src="/OXY-ENISO-YWB/assets/Media/logoEniso.png" style="width:220px;height:278px;" />
 
 The National School of Engineers of Sousse (Arabic: المدرسة الوطنية للمهندسين بسوسة) or ENISo is a Tunisian school of engineers which depends on the University of Sousse.
 
@@ -26,7 +26,7 @@ Productive mechanics engineering.
 
 
 <hr />
-<img src="/OXY-ENISO-YWB/assets/Media/YWB-logo.png" style="width:330px;height:230px;" />
+<img src="/OXY-ENISO-YWB/assets/Media/YWB-logo.png" style="width:300px;height:250px;" />
 
 Under the name "Yes, we breathe" (YWB) , the challenge of the development and manufacture of respirators, resuscitators and biomedical equipment, assumed by establishments of the University of Sousse like the National School of Engineers of Sousse (ENISo) and the Faculty of Medicine Sousse (FMS)   this challenge now grew to become a national movement to fight the COVID19 virus.
 
