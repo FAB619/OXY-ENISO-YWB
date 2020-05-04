@@ -26,7 +26,7 @@ Productive mechanics engineering.
 
 
 <hr />
-<img src="/OXY-ENISO-YWB/assets/Media/YWB-logo.png" style="width:300px;height:230px;" />
+<img src="/OXY-ENISO-YWB/assets/Media/YWB-logo.png" style="width:330px;height:230px;" />
 
 Under the name "Yes, we breathe" (YWB) , the challenge of the development and manufacture of respirators, resuscitators and biomedical equipment, assumed by establishments of the University of Sousse like the National School of Engineers of Sousse (ENISo) and the Faculty of Medicine Sousse (FMS)   this challenge now grew to become a national movement to fight the COVID19 virus.
 
