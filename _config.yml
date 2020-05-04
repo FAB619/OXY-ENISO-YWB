@@ -1,9 +1,9 @@
-title: ENIM FACE SHIELD
+title: OXY ENISO YWB
 author:
-  name: This documentation was done by ENIM Students
-  email: Student@enim.u-monatir.tn
+  name: This documentation was done by ENISo Students
+  email: Student@eniso.u-sousse.tn
 description: > # this means to ignore newlines until "show_excerpts:"
-  "ENIM FACE SHIELD" is an initiative powered by ENIM ,l'école nationae d'ingénieurs de Monastir ,
+  "OXY ENISO YWB" is an initiative powered by ENISo ,l'école nationae d'ingénieurs de Sousse , and the YesWeBreathe movement
   in partnership with the local companies and the tech community to provide medical supplies
   to the medical staff and to help the Tunisian government
 
@@ -20,7 +20,7 @@ minima:
     #github:  jekyll
     # devto: jekyll
     # dribbble: jekyll
-     facebook: ecole.nationale.dingenieurs.de.monastir
+     facebook: ENISo.Ecole.Nationale.dIngenieurs.deSousse
     # flickr:   jekyll
     # instagram: jekyll
     # linkedin: jekyll
