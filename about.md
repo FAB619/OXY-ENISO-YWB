@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="/OXY-ENISO-YWB/assets/Media/logoEniso.png>
+<img src="/OXY-ENISO-YWB/assets/Media/logoEniso.png">
 
 The National School of Engineers of Sousse (Arabic: المدرسة الوطنية للمهندسين بسوسة) or ENISo is a Tunisian school of engineers which depends on the University of Sousse.
 
