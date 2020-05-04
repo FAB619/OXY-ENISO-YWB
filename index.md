@@ -47,7 +47,7 @@ Creating this device was part of a challenge that has been launched to support n
     <img src="/OXY-ENISO-YWB/assets/Media/6.jpg" style="width:495px;height:300px;" />
   </div>
   <div class="column">
-    <img src="/OXY-ENISO-YWB/assets/Media/5.png" style="width:720px;height:360px;" />
+    <img src="/OXY-ENISO-YWB/assets/Media/5.png" style="width:725px;height:360px;" />
   </div>
 </div>
 
