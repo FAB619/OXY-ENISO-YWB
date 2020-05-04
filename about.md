@@ -3,19 +3,23 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/Enim_logo.png">
+<img src="/OXY-ENISO-YWB/assets/Media/logoEniso.png>
 
-The National School of Engineers of Monastir (Arabic: المدرسة الوطنية للمهندسين بالمنستير) or ENIM is a Tunisian school of engineers based in the city of Monastir located in the east of the country. It depends on the University of Monastir.
+The National School of Engineers of Sousse (Arabic: المدرسة الوطنية للمهندسين بسوسة) or ENISo is a Tunisian school of engineers which depends on the University of Sousse.
 
-It was created in 1987 and is based on both theoretical and practical lessons in the following fields:
+Founded in July 2005, the ENISo is first located on avenue du 18-Janvier, in the Bab Jedid district of Sousse, before settling in at the start of the 2011 academic year in the Sousse technopole.
 
- Energetic Engineering.
+Its objective is to meet a growing national need, day by day, for engineers specializing in advanced industries. With its three branches, its research masters and its professional master's degree, it trains engineers in:
 
- Mechanical Engineering.
+Computer engineering applied to industry
 
- Electrical engineering.
+Mechatronics engineering
 
- Textile engineering.
+Industrial electronics engineering.
+
+Embedded telecommunication  engineering.
+
+Productive mechanics engineering.
 
 
-[ENIM Official Website](http://www.enim.rnu.tn/)
+[ENISo Official Website](http://www.eniso.rnu.tn/fr/)
