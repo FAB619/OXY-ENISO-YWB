@@ -11,7 +11,7 @@ layout: page
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Faref.meddeb%2Fvideos%2F10157445556698877%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 <hr />
 
-  <img src="/OXY-ENISO-YWB/assets/Media/brochure.png">
+
 
 # What?
 <hr />
@@ -23,8 +23,7 @@ After several days of testing, students from the National School of Engineers in
 
 # Why?
 <hr />
-Visor masks are useful for medical personnel and also for all service agents likely to be confronted with a risk of contamination (cleaning agents, firefighters, etc.)
-
+Creating this device was part of a challenge that has been launched to support national efforts to combat the Corona virus, especially since artificial respirators are one of the most important ways to save the life of the person living with the virus.
 
 # How?
 <hr />
@@ -38,17 +37,17 @@ Visor masks are useful for medical personnel and also for all service agents lik
   <div class="column">
     <img src="/OXY-ENISO-YWB/assets/Media/1.jpg" style="width:225px;height:300px;" />
     <img src="/OXY-ENISO-YWB/assets/Media/2.jpg" style="width:225px;height:300px;" />
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/farhatHached.png" style="width:225px;height:300px;" />
+    <img src="/OXY-ENISO-YWB/assets/Media/3.jpg" style="width:225px;height:300px;" />
   </div>
   <div class="column">
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/5.jpg" style="width:225px;height:300px;" />
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/4.jpg" style="width:225px;height:300px;" />
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/6.jpg" style="width:225px;height:300px;" />
+    <img src="/OXY-ENISO-YWB/assets/Media/4.jpg" style="width:225px;height:300px;" />
+    <img src="" style="width:225px;height:300px;" />
+    <img src="" style="width:225px;height:300px;" />
   </div>
   <div class="column">
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/10.jpg" style="width:225px;height:300px;" />
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/15.jpg" style="width:225px;height:300px;" />
-    <img src="/ENIM_Face_Shield_Injection_Molding/assets/Media/9.jpg" style="width:225px;height:300px;" />
+    <img src="" style="width:225px;height:300px;" />
+    <img src="" style="width:225px;height:300px;" />
+    <img src="" style="width:225px;height:300px;" />
   </div>
 </div>
 
@@ -60,6 +59,7 @@ Issues / Feature Requests: if you find any errors / omissions in any of the docu
 
 # Achievements
 <hr />
+  <img src="/OXY-ENISO-YWB/assets/Media/brochure.png">
 
 
 
@@ -68,6 +68,7 @@ Issues / Feature Requests: if you find any errors / omissions in any of the docu
 <hr />
 
 This Project was entirely done by ENISo students and professors with the help of local industries to help the government against COVID-19.
+Recall that this project had the financial and logistical support of the Presidency of the Republic as part of the "Yes We Breathe" project.
 
 FAB619 is only the documentation author. The project belongs to ENISo - École nationale d'ingénieurs de Sousse.
 
