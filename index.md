@@ -35,14 +35,13 @@ Creating this device was part of a challenge that has been launched to support n
 <hr />
 <div class="row">
   <div class="column">
-    <img src="/OXY-ENISO-YWB/assets/Media/1.jpg" style="width:225px;height:300px;" />
-    <img src="/OXY-ENISO-YWB/assets/Media/2.jpg" style="width:225px;height:300px;" />
-    <img src="/OXY-ENISO-YWB/assets/Media/3.jpg" style="width:225px;height:300px;" />
+    <img src="/OXY-ENISO-YWB/assets/Media/1.jpg" style="width:400px;height:300px;" />
+    <img src="/OXY-ENISO-YWB/assets/Media/2.jpg" style="width:400px;height:300px;" />
   </div>
   <div class="column">
-    <img src="/OXY-ENISO-YWB/assets/Media/4.jpg" style="width:225px;height:300px;" />
-    <img src="" style="width:225px;height:300px;" />
-    <img src="" style="width:225px;height:300px;" />
+    <img src="/OXY-ENISO-YWB/assets/Media/4.jpg" style="width:400px;height:300px;" />
+    <img src="/OXY-ENISO-YWB/assets/Media/3.jpg" style="width:400px;height:300px;" />
+
   </div>
   <div class="column">
     <img src="" style="width:225px;height:300px;" />
