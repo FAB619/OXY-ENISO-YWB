@@ -53,9 +53,9 @@ Creating this device was part of a challenge that has been launched to support n
 
 # Documentation and Files
 <hr />
-All of our design [documentation](https://github.com/FAB619/OXY-ENISO-YWB) and [download files](https://github.com/FAB619/ENIM_Face_Shield_Injection_Molding/tree/master/Files) are available open-source on GitHub. Pull requests are encouraged!
 
-Issues / Feature Requests: if you find any errors / omissions in any of the documentation or template files, or would like to request an addition or feature, please feel free to submit an Issue to one of our GitHub repositories! Thank you!
+
+Our design is available in ENISo Mechatronics departement , feel free to contact us.
 
 # Achievements
 <hr />
