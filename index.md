@@ -71,6 +71,9 @@ This Project was entirely done by ENISo students and professors with the help of
 Recall that this project had the financial and logistical support of the Presidency of the Republic as part of the "Yes We Breathe" project.
 
 FAB619 is only the documentation author. The project belongs to ENISo - École nationale d'ingénieurs de Sousse.
+**The purpose of this documentation is to collect all the Tunisian projects and innovations to fight the COVID19 in one place.
+
+Stay Safe!**
 
 <hr />
 
